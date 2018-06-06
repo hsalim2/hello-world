@@ -1,0 +1,51 @@
+/* This is a CSS comment. Notice that CSS comments are
+enclosed by different characters than HTML comments. */
+
+/* CSS allows you to give your page style (colors, shapes, fonts, etc.)
+You can apply CSS elements to entire HTML classes.*/
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+
+}
+.The_UAE_Efforts_Against_Climate_Change{
+	display: flex;
+}
+h1{
+	background-color: cadetblue;
+	color: black;
+	box-shadow: 0px 0px 0px 5px black;
+	font-family: inherit;
+}
+h2{
+	font-style: inherit;
+}
+p{
+	font-size: 15px;
+}
+
+.Part_1{
+	background-color: cadetblue;
+	box-shadow: 0px 0px 0px 5px black;
+}
+.Subtitle-1{
+	background-color: cadetblue;
+
+}
+.Content-Subtitle-1{
+	background-color: cadetblue;
+}
+.Part_2{
+	background-color: cadetblue;
+	box-shadow: 0px 0px 0px 5px black;
+}
+.Part_3{
+	background-color: cadetblue;
+	box-shadow: 0px 0px 0px 5px black;
+}
+.Part_Bibliography{
+	background-color: cadetblue;
+	box-shadow: 0px 0px 0px 5px black;
+}
